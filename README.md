@@ -12,9 +12,6 @@ Hi, I'm Priyanshu 👋<br><br>Computer Science student passionate about building
 ![](https://nirzak-streak-stats.vercel.app/?user=Ashutosh7319&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh7319&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashutosh7319&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashutosh7319&icon=0&color=0)](https://visitcount.itsvg.in)
 
