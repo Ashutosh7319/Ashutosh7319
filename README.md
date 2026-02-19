@@ -84,12 +84,13 @@ Here you’ll find my work on:
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashutosh7319&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Ashutosh7319&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashutosh7319&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Ashutosh7319&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh7319&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh7319&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 </p>
+
 
 
