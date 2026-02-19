@@ -2,12 +2,12 @@
 
 <p align="center">
 Hi, I'm <b>Priyanshu</b> 👋 <br><br>
-🎓 Computer Science student passionate about building useful and creative web applications <br>
-💻 I enjoy working on frontend + backend projects and continuously improving my development skills
+🎓 Computer Science student passionate about building useful and creative web applications. <br>
+💻 I enjoy working on frontend + backend projects and continuously improving my development skills.
 </p>
 
 <p align="center">
-<img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmduYmRwdmdjZWw4dmwyMnFlNnBzdDhlaW4yODVocXkzdG01YnhldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif">
+<img height="250" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmduYmRwdmdjZWw4dmwyMnFlNnBzdDhlaW4yODVocXkzdG01YnhldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif">
 </p>
 
 ---
@@ -72,18 +72,20 @@ Here you’ll find my work on:
 <h2 align="center">🚀 Projects</h2>
 
 <p align="center">
-<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img width="450" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNGEzNHdsankwbjIxcm9rOXRpbjUzZWI3MDB3YjhvcmdqaWI3Znc0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif">
 </p>
 
 <p align="center">
-✨ Web Applications • 🎵 Music Player • ♟️ Chess Game • 🤖 Robotics • 🎨 UI/UX
+✨ Web Applications &nbsp;  🎵 Music Player &nbsp; ♟️ Chess Game &nbsp; 🤖 Robotics &nbsp; 🎨 UI/UX
 </p>
 
 ---
 
-# 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=Ashutosh7319&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Ashutosh7319&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh7319&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">📊 GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ashutosh7319&theme=dark&hide_border=false"><br/>
+</p>
 
 
 
