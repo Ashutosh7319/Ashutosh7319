@@ -1,18 +1,84 @@
-# 💫 About Me:
-Hi, I'm Priyanshu 👋<br><br>Computer Science student passionate about building useful and creative web applications.  <br>I enjoy working on frontend + backend projects and continuously improving my development skills.<br><br>Skills<br>- Frontend: HTML, CSS, JavaScript  <br>- Backend: Node.js, MySQL  <br>- Programming: C, C++, Python  <br>- Interests: Web Development, UI/UX, Problem Solving<br><br>Currently Learning<br>- Advanced JavaScript & modern web frameworks  <br>- Full-stack project architecture  <br>- Building polished and production-ready projects<br><br>Projects<br>Here you’ll find my work on:<br>- Web applications  <br>- UI/UX experiments  <br>- Learning projects & mini tools<br>
+<!-- Animated Header -->
+<h1 align="center">Hi 👋 I'm Priyanshu</h1>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pri_yanshu3859?igsh=M3ViNHB6Z2VxcnU1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-saha-11847a253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/priyanshu7319/s/9BUOnpE4Ck) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCDafXlFe8qkgd3TkDQwOsiQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahapriyanshu88@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashutosh7319&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ashutosh7319&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh7319&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Web+Developer;I+Love+Building+Creative+Projects;Always+Learning+New+Tech" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashutosh7319&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="coding" width="350" src="https://tenor.com/en-GB/view/alarm-gif-9878940352483067214">
+
+## 💫 About Me
+🎓 Computer Science student passionate about building useful and creative web applications  
+💻 I enjoy working on frontend + backend projects and constantly improving my development skills  
+🚀 I love turning ideas into real working apps  
+🌱 Currently learning modern web frameworks & full-stack architecture  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/pri_yanshu3859"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://linkedin.com/in/priyanshu-saha-11847a253"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:sahapriyanshu88@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://youtube.com/@UCDafXlFe8qkgd3TkDQwOsiQ"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+<a href="https://reddit.com/user/priyanshu7319"><img src="https://skillicons.dev/icons?i=reddit" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
+
+### 🌐 Web Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,react,nextjs,tailwind,mysql,mongodb" />
+</p>
+
+### ☁️ Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,cloudflare,figma,canva,arduino" />
+</p>
+
+---
+
+## 🚀 Projects
+
+<p align="center">
+  <img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
+
+✨ Web applications  
+🎵 Music Player Web App  
+♟️ JavaScript Chess Game  
+🤖 Robotics & IoT Projects  
+🎨 UI/UX Experiments  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashutosh7319&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh7319&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh7319&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
