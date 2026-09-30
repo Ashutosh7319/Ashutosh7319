@@ -7,7 +7,11 @@ Hi, I'm <b>Priyanshu</b> 👋 <br><br>
 </p>
 
 <p align="center">
-<img height="300" width="300" src="Profile.jpg" style="border-radius: 10%;>
+<img src="./Profile.jpg"
+     alt="Profile Picture"
+     width="300"
+     height="300"
+     style="border-radius: 15px !important;">
 </p>
 
 ---
