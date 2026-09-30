@@ -7,7 +7,7 @@ Hi, I'm <b>Priyanshu</b> 👋 <br><br>
 </p>
 
 <p align="center">
-<img height="250" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmduYmRwdmdjZWw4dmwyMnFlNnBzdDhlaW4yODVocXkzdG01YnhldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif">
+<img height="250" width="300" src="file:///Users/priyanshusaha/Downloads/Profile.jpg">
 </p>
 
 ---
