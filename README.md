@@ -7,7 +7,7 @@ Hi, I'm <b>Priyanshu</b> 👋 <br><br>
 </p>
 
 <p align="center">
-<img height="250" width="300" src="Profile.jpg">
+<img height="300" width="300" src="Profile.jpg">
 </p>
 
 ---
