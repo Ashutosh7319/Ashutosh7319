@@ -7,15 +7,9 @@ Hi, I'm <b>Priyanshu</b> 👋 <br><br>
 </p>
 
 <p align="center">
-<img height="300" width="300" src="Profile.jpg" id="profile">
+<img height="300" width="300" src="Profile.jpg" id="profile style="border-radius: 10%;">
 </p>
 
-<style>
-  #profile{
-    border-radius: 10px;
-    border: none;
-  }
-</style>
 ---
 
 ### 🧠 Skills
