@@ -11,7 +11,7 @@ Hi, I'm <b>Priyanshu</b> 👋 <br><br>
      alt="Profile Picture"
      width="300"
      height="300"
-     style="border-radius: 15px !important;">
+     style="border-radius: 20px !important;">
 </p>
 
 ---
